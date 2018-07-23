@@ -1,12 +1,3 @@
-*.build_log.htm
-*.Bak
-*.hex
-*.plg
-*.LST
-*.uvgui.*
-*.lnp
-*.M51
-
 # Prerequisites
 *.d
 
